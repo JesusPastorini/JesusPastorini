@@ -1,7 +1,7 @@
 ### Ola ✌ Sou o: Jesus Cesar Pastorini Junior ✌
 
 - 🔭 Hoje trabalho com Auxiliar de informatica
-- ♨ Estudando Java.♨
+- ♨ Estudando React.♨
 - 🗺 Formado como▶Técnico em informática e Análise e desenvilvimento de sistema◀
 <div align="center">
   <a href="https://github.com/JesusMain">

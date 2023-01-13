@@ -1,11 +1,11 @@
 ### Ola ✌ Sou o: Jesus Cesar Pastorini Junior ✌
 
 - 🔭 Hoje trabalho com Auxiliar de informatica
-- ♨ Estudando React.♨
+- ♨ Estudando Na Trybe.♨
 - 🗺 Formado como▶Técnico em informática e Análise e desenvilvimento de sistema◀
 <div align="center">
   <a href="https://github.com/JesusPastorini">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JesusMain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JesusPastorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusPastorini&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/jesus-pastorini-75371286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JesusPastorini/JesusPastorini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JesusPastorini/JesusMain/blob/output/github-contribution-grid-snake.svg)
  
 </div>

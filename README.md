@@ -1,7 +1,7 @@
 ### Ola ✌ Sou o: Jesus Cesar Pastorini Junior ✌
 
-- 🔭 Hoje trabalho com Auxiliar de informatica
-- ♨ Estudando Na Trybe.♨
+- 🔭 A 5 anos trabalhando como Auxiliar de informatica
+- ♨ Dia 08/04/2024 formado como Desenvolvedor FullStack pela TRYBE ♨
 - 🗺 Formado como▶Técnico em informática e Análise e desenvilvimento de sistema◀
 <div align="center">
   <a href="https://github.com/JesusPastorini">
@@ -19,8 +19,13 @@
   <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NodeJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain-wordmark.svg">
+  <img align="center" alt="Sequelize" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sequelize/sequelize-plain-wordmark.svg">
+  <img align="center" alt="Trello" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original-wordmark.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg">
 </div>
  <br>
 <picture>

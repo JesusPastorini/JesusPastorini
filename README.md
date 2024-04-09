@@ -3,6 +3,11 @@
 - 🔭 A 5 anos trabalhando como Auxiliar de informatica
 - ♨ Dia 08/04/2024 formado como Desenvolvedor FullStack pela TRYBE ♨
 - 🗺 Formado como▶Técnico em informática e Análise e desenvilvimento de sistema◀
+  <h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:juniorpastorini_@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jesus-pastorini-75371286/)
+
 <div align="center">
   <a href="https://github.com/JesusPastorini">
   <img width="59%" src="https://github-readme-stats.vercel.app/api?username=JesusPastorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

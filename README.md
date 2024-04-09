@@ -5,8 +5,8 @@
 - 🗺 Formado como▶Técnico em informática e Análise e desenvilvimento de sistema◀
 <div align="center">
   <a href="https://github.com/JesusPastorini">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=JesusPastorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusPastorini&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=JesusPastorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusPastorini&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
@@ -22,12 +22,10 @@
   <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
-  
-  ###
- 
-<div> 
-  <a href="https://www.linkedin.com/in/jesus-pastorini-75371286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/JesusPastorini/JesusPastorini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JesusPastorini/JesusPastorini/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusPastorini/JesusPastorini/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JesusPastorini/JesusPastorini/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>

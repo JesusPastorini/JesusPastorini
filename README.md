@@ -1,5 +1,6 @@
 ### Ola ✌ Sou o: Jesus Cesar Pastorini Junior ✌
 
+- 🎓 Cursando Ciência de Dados. 🎓
 - 🔭 A 5 anos trabalhando como Auxiliar de informatica
 - ♨ Dia 08/04/2024 formado como Desenvolvedor FullStack pela TRYBE ♨
 - 🗺 Formado como▶Técnico em informática e Análise e desenvilvimento de sistema◀
